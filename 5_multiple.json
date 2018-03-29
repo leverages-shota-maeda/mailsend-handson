@@ -1,7 +1,7 @@
 {
   "personalizations" : [
     {
-      "to": [{"email": "alice@example.com"}],
+      "to": [{"email": "shota.maeda@leverages.jp"}],
       "substitutions": {"-name-": "アリス"}
     },
     {
